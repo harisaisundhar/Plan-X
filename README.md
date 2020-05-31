@@ -1,7 +1,7 @@
 Plan-X
 =========================
 
-A gardening app illustrating a online shop for flower vendors
+An android app illustrating a online shop for flower vendors
 
 Introduction
 ------------
